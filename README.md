@@ -1,2 +1,2 @@
-# portfolio_website_-HTML-CSS-
+# portfolio website (HTML & CSS)
 My software dev portfolio website.
